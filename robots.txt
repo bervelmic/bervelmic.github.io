@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bervelmic.github.io/sitemap.html.gz
+Sitemap: https://bervelmic.github.io/app/sitemap.html.gz
+Sitemap: https://bervelmic.github.io/assets/sitemap.html.gz
+Sitemap: https://bervelmic.github.io/css/sitemap.html.gz
+Sitemap: https://bervelmic.github.io/includes/sitemap.html.gz
+Sitemap: https://bervelmic.github.io/item/sitemap.html.gz
+Sitemap: https://bervelmic.github.io/src/sitemap.html.gz
